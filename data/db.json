@@ -1,0 +1,23 @@
+{
+    "blogs":[
+        {
+            "title":"Blog about Java 8",
+            "body":"Java 8 is a revolutionary release of the world’s #1 development platform. It includes a huge upgrade to the Java programming model and a coordinated evolution of the JVM, Java language, and libraries. Java 8 includes features for productivity, ease of use, improved polyglot programming, security and improved performance. Welcome to the latest iteration of the largest, open, standards-based, community-driven platform.",
+            "author":"xasan",
+            "id":1
+        },
+
+        {
+            "title":"Blog about Spring",
+            "body":"The JDK includes tools useful for developing and testing programs written in the Java programming language and running on the JavaTM platform.",
+            "author":"zohid",
+            "id":2
+        },
+        {
+            "title":"Blog about React",
+            "body": "React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. React can be used to develop single-page, mobile, or server-rendered applications with frameworks.",
+            "author":"xasan",
+            "id":3
+        }
+    ]
+}
